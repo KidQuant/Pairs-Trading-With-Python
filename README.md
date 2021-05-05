@@ -15,7 +15,7 @@ Our goal involves the following:
 
 ## Data
 
-I used the data from [Yahoo Finance](https://finance.yahoo.com/), which provides historical financial data for free. This data was extracted via the [Fix Yahoo Finance](https://pypi.org/project/fix-yahoo-finance/) Python module.
+I used the data from [Yahoo Finance](https://finance.yahoo.com/), which provides historical financial data for free. This data was extracted via the [yFinance](https://pypi.org/project/yfinance/) Python module.
 
 ### Enviroment and Tools
 
