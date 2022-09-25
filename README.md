@@ -19,6 +19,8 @@ I used the data from [Yahoo Finance](https://finance.yahoo.com/), which provides
 
 ### Enviroment and Tools
 
+The following are the modules we will use in this notebook. However, the program relies on many more dependencies than what is shown here. Please be sure to set up a virtual enviroment and install the requirements.txt file before running this programming on your own.
+
 1. Jupyter NoteBook
 2. Numpy
 3. Pandas
