@@ -17,7 +17,7 @@ Our goal involves the following:
 
 I used the data from [Yahoo Finance](https://finance.yahoo.com/), which provides historical financial data for free. This data was extracted via the [yFinance](https://pypi.org/project/yfinance/) Python module.
 
-### Enviroment and Tools
+## Enviroment and Tools
 
 The following are the modules we will use in this notebook. However, the program relies on many more dependencies than what is shown here. Please be sure to set up a virtual enviroment and install the requirements.txt file before running this programming on your own.
 
